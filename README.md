@@ -1,4 +1,4 @@
-# Steganography Chat
+# Stenography Chat
 
 ![Demo](./docs/demo.gif)
 
