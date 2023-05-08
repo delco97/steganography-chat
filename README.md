@@ -1,6 +1,6 @@
 # Stenography Chat
 
-![Demo](./docs/demo.gif)
+![Demo](./docs/img/demo.gif)
 
 # Readme: Chat Server
 
